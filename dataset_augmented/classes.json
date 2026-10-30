@@ -1,0 +1,162 @@
+[
+  {
+    "label": 0,
+    "char": "ا",
+    "name": "alef"
+  },
+  {
+    "label": 1,
+    "char": "ب",
+    "name": "be"
+  },
+  {
+    "label": 2,
+    "char": "پ",
+    "name": "pe"
+  },
+  {
+    "label": 3,
+    "char": "ت",
+    "name": "te"
+  },
+  {
+    "label": 4,
+    "char": "ث",
+    "name": "se"
+  },
+  {
+    "label": 5,
+    "char": "ج",
+    "name": "jim"
+  },
+  {
+    "label": 6,
+    "char": "چ",
+    "name": "che"
+  },
+  {
+    "label": 7,
+    "char": "ح",
+    "name": "he_jimi"
+  },
+  {
+    "label": 8,
+    "char": "خ",
+    "name": "khe"
+  },
+  {
+    "label": 9,
+    "char": "د",
+    "name": "dal"
+  },
+  {
+    "label": 10,
+    "char": "ذ",
+    "name": "zal"
+  },
+  {
+    "label": 11,
+    "char": "ر",
+    "name": "re"
+  },
+  {
+    "label": 12,
+    "char": "ز",
+    "name": "ze"
+  },
+  {
+    "label": 13,
+    "char": "ژ",
+    "name": "zhe"
+  },
+  {
+    "label": 14,
+    "char": "س",
+    "name": "sin"
+  },
+  {
+    "label": 15,
+    "char": "ش",
+    "name": "shin"
+  },
+  {
+    "label": 16,
+    "char": "ص",
+    "name": "sad"
+  },
+  {
+    "label": 17,
+    "char": "ض",
+    "name": "zad"
+  },
+  {
+    "label": 18,
+    "char": "ط",
+    "name": "ta"
+  },
+  {
+    "label": 19,
+    "char": "ظ",
+    "name": "za"
+  },
+  {
+    "label": 20,
+    "char": "ع",
+    "name": "eyn"
+  },
+  {
+    "label": 21,
+    "char": "غ",
+    "name": "gheyn"
+  },
+  {
+    "label": 22,
+    "char": "ف",
+    "name": "fe"
+  },
+  {
+    "label": 23,
+    "char": "ق",
+    "name": "ghaf"
+  },
+  {
+    "label": 24,
+    "char": "ک",
+    "name": "kaf"
+  },
+  {
+    "label": 25,
+    "char": "گ",
+    "name": "gaf"
+  },
+  {
+    "label": 26,
+    "char": "ل",
+    "name": "lam"
+  },
+  {
+    "label": 27,
+    "char": "م",
+    "name": "mim"
+  },
+  {
+    "label": 28,
+    "char": "ن",
+    "name": "nun"
+  },
+  {
+    "label": 29,
+    "char": "و",
+    "name": "vav"
+  },
+  {
+    "label": 30,
+    "char": "ه",
+    "name": "he"
+  },
+  {
+    "label": 31,
+    "char": "ی",
+    "name": "ye"
+  }
+]

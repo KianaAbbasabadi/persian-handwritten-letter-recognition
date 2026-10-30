@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+Pillow>=10
+fonttools
+scikit-learn>=1.2
+joblib
+opencv-python-headless
+ipython
